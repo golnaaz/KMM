@@ -1,0 +1,2 @@
+com/golnaz/kmmapplication/android/BuildConfig.java
+ com.golnaz.kmmapplication.android.BuildConfig
